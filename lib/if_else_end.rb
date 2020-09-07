@@ -1,7 +1,7 @@
 # Write your solution here
 
 
-if Time / 2 == 0
+if Time.now == even
   puts "Even!"
  else puts "Odd!" 
 end
